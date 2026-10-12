@@ -1,0 +1,1 @@
+document.querySelector("form").addEventListener("click", () => console.log("asdasd"));
